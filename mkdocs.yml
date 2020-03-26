@@ -2,6 +2,6 @@ site_name: My Docs
 
 nav:
   - Home: index.md
-  - Test: test.md
+  - Test: ch0/test.md
 
 theme: readthedocs
